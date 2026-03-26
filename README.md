@@ -12,7 +12,7 @@ The Node.js API and database layer. A robust RESTful API powered by Node.js and 
 The internal dashboard for managing data. A secure, role-based management portal that gives administrators full CRUD control over the product catalog. It includes integrated Cloudinary support for image uploads and a dedicated interface to update and sync order statuses in real time.
 
 ## Central Documentation
-The Business Requirements Document (BRD) is maintained in the **Server-Side** repository to ensure a single source of truth.
+The Business Requirements Document (BRD) is maintained to ensure a single source of truth.
   - Business Requirements Document - LINK
 
 ## Related Repositories
